@@ -543,6 +543,21 @@ p {
     color: #25d366;
 }
 
+footer{
+    background-color: black;
+}
+
+.copyrights{
+    padding: 40px 5px;
+    color: white;
+    text-align: center;
+    font-weight: 300;
+}
+.copyrights a{
+    color: white;
+    text-decoration: none;
+}
+
 .footer {
     background-color: black;
     color: grey;
